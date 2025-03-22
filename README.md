@@ -1,4 +1,4 @@
-### Hi I'm AI Robot Engineer 👋
+### Hi I'm Robot-AI Engineer 👋
 
 I'm working on autonomous systems, focusing on **visual AI**, **path planning**, and **Physics-Informed hybrid AI** that integrates **rule-based** and **learning-based** Approaches (including **Imitation Learning** and **Reinforcement Learning**).
 
